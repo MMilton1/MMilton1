@@ -85,7 +85,7 @@ A unique project that highlights any specialized skills like containerization, c
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmilton1&layout=compact&theme=radical&hide=html,css)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mmilton1&theme=radical&hide_border=true)
+  ![Streak Count](https://img.shields.io/badge/Current%20Streak-150%20days-red?style=for-the-badge&logo=github)
 
   ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mmilton1&theme=radical)
   
