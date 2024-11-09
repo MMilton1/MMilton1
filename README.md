@@ -78,7 +78,18 @@ A unique project that highlights any specialized skills like containerization, c
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&count_private=true)
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmilton1&show_icons=true&theme=radical&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmilton1&layout=compact&theme=radical&hide=html,css)
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=mmilton1&theme=radical&hide_border=true)
+
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mmilton1&theme=radical)
+  
+</div>
+
 
 ---
 
