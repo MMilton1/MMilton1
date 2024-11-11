@@ -16,7 +16,7 @@ I'm currently pursuing a **Bachelor’s in Computer Science** at the **Universit
 - 🎓 **Full Stack Engineer** with a focus on delivering clean, efficient, and innovative code.
 - 🚀 Experienced in **building end-to-end applications** using modern frameworks and cloud services.
 - 💡 **Proactive learner** and problem-solver who thrives in challenging environments.
-- 🌍 Based in **Germany** | Open to **remote opportunities**.
+- 🌍 Based in **Germany** | Open to **remote opportunities** and **relocation**.
 
 
 ---
