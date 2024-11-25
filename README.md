@@ -66,7 +66,7 @@ I'm currently pursuing a **Bachelor’s in Software Development and Security** a
 
 ## 🖥️ Featured Projects
 
-### [Project Name 1](link)
+### [Web Scraper](link)
 A brief description of this project, including technologies used, unique challenges, and what makes it stand out.
 
 ### [Project Name 2](link)
