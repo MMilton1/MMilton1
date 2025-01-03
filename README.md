@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Murray – Full Stack Software Engineer
+# 👋 Hi, I'm Murray – Full Stack Software Developer
 
 Welcome to my GitHub! I'm a passionate Full Stack Software Engineer with a comprehensive skill set and a drive for building impactful, scalable applications. I have experience in both front-end and back-end development, along with expertise in cloud computing and containerization, which allows me to deliver robust, user-centric solutions across the stack.
 
