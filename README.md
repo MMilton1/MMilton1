@@ -7,16 +7,18 @@ Welcome to my GitHub! I'm a passionate Full Stack Software Engineer with a compr
 ## 🎓 Education
 
 ![UMGC](https://img.shields.io/badge/UMGC-Software_Development_&%20Security-0071C5?style=for-the-badge&logo=umgc&logoColor=white)  
-I'm currently pursuing a **Bachelor’s in Software Development and Security** at the **University of Maryland Global Campus** (UMGC) and am on track to graduate in **2025**. My studies focus on core software engineering principles, algorithms, data structures, and modern development practices, equipping me with the skills to excel in software engineering roles.
+I'm currently pursuing a **Bachelor’s in Software Development and Cyber Operations** at the **University of Maryland Global Campus** (UMGC) and am on track to graduate in **2025**. My studies focus on core software engineering principles, algorithms, data structures, and modern development practices, equipping me with the skills to excel in software engineering roles.
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 **Full Stack Engineer** with a focus on delivering clean, efficient, and innovative code.
-- 🚀 Experienced in **building end-to-end applications** using modern frameworks and cloud services.
-- 💡 **Proactive learner** and problem-solver who thrives in challenging environments.
-- 🌍 Based in **Germany** | Open to **remote opportunities** and **relocation**.
+- 💻 **Full Stack Engineer** passionate about crafting clean, efficient, and innovative code.  
+- 🚀 Experienced in **end-to-end development** using modern frameworks and cloud platforms.  
+- 🌍 Based in **Germany**, open to **remote opportunities** and **relocation**.  
+- 📖 Lifelong learner currently mastering Python and advanced software architecture.
+
+➡️ **Explore my projects below and let’s collaborate!**
 
 
 ---
@@ -67,13 +69,17 @@ I'm currently pursuing a **Bachelor’s in Software Development and Security** a
 ## 🖥️ Featured Projects
 
 ### [Web Scraper](link)
-A brief description of this project, including technologies used, unique challenges, and what makes it stand out.
+Automated a data extraction pipeline with Python, BeautifulSoup, and Selenium.  
+Features:
+- Handles dynamic content and multi-threading.
+- Exports data to CSV and JSON formats.
 
-### [Project Name 2](link)
-Another project that showcases your skills, ideally with a focus on scalability, complex algorithms, or other valuable aspects.
+### [Portfolio Website](link)
+Developed a responsive portfolio using **React** and deployed with **Docker**.  
+Features:
+- Optimized for mobile and desktop.
+- Includes real-time feedback form integration.
 
-### [Project Name 3](link)
-A unique project that highlights any specialized skills like containerization, cloud infrastructure, or advanced frontend frameworks.
 
 ---
 
