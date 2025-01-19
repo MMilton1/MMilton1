@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Software Engineer with a compr
 ## 🎓 Education
 
 ![UMGC](https://img.shields.io/badge/UMGC-Software_Development_&%20Security-0071C5?style=for-the-badge&logo=umgc&logoColor=white)  
-I'm currently pursuing a **Bachelor’s in Software Development and Cyber Operations** at the **University of Maryland Global Campus** (UMGC) and am on track to graduate in **2025**. My studies focus on core software engineering principles, algorithms, data structures, and modern development practices, equipping me with the skills to excel in software engineering roles.
+I'm currently pursuing a **Bachelor’s in Software Development and Cyber Operations  minor Computer Science** at the **University of Maryland Global Campus** (UMGC) and am on track to graduate in **2025**. My studies focus on core software engineering principles, algorithms, data structures, and modern development practices, equipping me with the skills to excel in software engineering roles.
 
 ---
 
